@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 李翠婷简历
 
 You can use the [editor on GitHub](https://github.com/licuiting2/ting.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
