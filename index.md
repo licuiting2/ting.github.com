@@ -1,37 +1,84 @@
 ## 李翠婷简历
 
-You can use the [editor on GitHub](https://github.com/licuiting2/ting.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+    
+# 个人简历
 
-### Markdown
+李翠婷   ︳   web前端开发工程师   
+ 女  ︳   25岁  ︳本科 ︳ 3年工作经验  ︳ 北京   
+15201143059 ︳15201143059@163.com
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 工作经历   
+北京勰睿基业有限公司  ︳   web前端开发工程师  ︳   2016/03—至今
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+1. 运用主流前端框架及库完成页面静态展示、动态表现及交互效果；
+2. 通过经验及摸索实现各种浏览的兼容性、不断提高网站性能、提高用户体验； 
+3. 负责配合产品经理、后端开发人员进行后期的维护与更新；
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+---
 
-[Link](url) and ![Image](src)
+
+
+
+北京集思图友科技有限公司  ︳   web前端开发  ︳   2014.11-2016.03 
+1. 主要负责项目中的页面布局、及动态效果，根据产品需求解决各种浏览器的兼容问题； 
+2. 负责项目中公共模块的插件及组件的封装，从而优化开发效率，节省开发资源；
+3. 与其他前端发开人员协作、配合给出最优的前端解决方案并对产品后期维进行维护与更新；
+ 
+
+---
+
+##  教育经历  
+	山西工商学院  ︳   本科  ︳   会计学  ︳   2015年毕业  
+
+
+---
+
+##  项目经验  
+ 
+勰睿基业（PC端）  ︳   前端开发  ︳   2016.03-2016.07 
+    
+在此项目中,团队采用gulpL来构建项目，运用git分布式版本控制实现多人协作开发，我
+人熟练的使用htmL、sass预编译、js、jquery库高效完成了所负责的区域模块，其中包括页面
+的展示与动态的直观表现及所有的交互行为，解决各种浏览器兼容问题，与团队完美配合，使开发有效提升。
+
+---
+
+一号美店（移动端）  ︳   前端开发  ︳   2016.07-2017.01
+   
+采用gulp+webpack实现构建项目、模块的打包工作，在项目中，我负责使用html5+css3进
+行页面排版，运用zepto、swiper、iscroll 等移动端框架实现动态效果，采用ajax技术请求数据
+实现页面的渲染，持续的优化前端体验和页面响应速度，解决各种兼容性问题，运用weinre前端
+调试工具检测代码，实现页面的bug修复。
+ 
+
+---
+
+
+
+
+
+AD管理（PC 端）  ︳   前端开发  ︳   2017.02-2017.05
+    
+   项目中，团队采用vue脚手架来完成整个项目的基础搭建，它为我们节省了很多开发时间，个人
+感觉非常好用，该项目用Vue-Router路由来实现页面的跳转，以及二、三级路由的嵌套，且通过异
+步组件加实现路由的加载，为页面提高了性能，实现了按需加载的优化方案。对于swiper、、axios
+vue-scroller等第三方库的公共使用，我们采用集中式管理的方法，通过js原生方法进行封装，供
+全局使用，部分数据通过mock组件实现模拟数据，从而减少后台请求
+
+
+---
+
+## 自我描述  
+熟练使用HTML5/CSS/JS以及LESS和SASS等css预编器，在项目实践中有bootstrap框架的开发经验，能够熟练运用jquery库来实现页面的动态效果且在必要时拥有使用js原生实现动效的能力，一切以提高页面性能、简化代码编写、提高用户体验为主导而做恰当的选择,熟练的掌握了ajax技术来完成页面的渲染，对跨域请求的解决方案JSONP、CORS、服务器跨域有深入的理解与运用的能力，熟练掌握移动端开发，对于zepto、swiper、iscroll等移动端框架的运用已成功的总结了很多经验，熟悉angular、vue等以数据驱动为主的热门前端框架，并具有一定的实践经验。了解Nodejs、ES6等语言，预期在将来深入的进行究。熟练使用gulp、webpack自动化开发工具，有hybridapp开发经验。每当完成一个项目或解决一个bug时，它能带给我不一样的价值感和成就感，具备良好的沟通能力。
+	
+##  个人评价	
+对工作、生活充满热情，生活中阳光、爽朗，工作也能带给别样的享受，心态真的很重要!
+
+	
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/licuiting2/ting.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
